@@ -2,6 +2,7 @@
   padding: 0;
   margin: 0;
   border: 0;
+  box-sizing: content-box;
 }
 body {
   background-color: rgb(85, 85, 85);
@@ -15,51 +16,82 @@ body {
 }
 
 #t-1 {
+  visibility: hidden;
+  border-right: 1px solid black;
   background-color: rgb(143, 33, 33);
 }
 
 #t-2 {
+  visibility: hidden;
   background-color: rgb(223, 231, 111);
+  border-right: 1px solid black;
 }
 
 #t-3 {
+  visibility: hidden;
+  border-right: 1px solid black;
   background-color: rgb(8, 238, 8);
 }
 
 #t-4 {
+  visibility: hidden;
+  border-right: 1px solid black;
   background-color: rgb(8, 238, 8);
 }
 
 #t-5 {
+  visibility: hidden;
+  border-right: 1px solid black;
   background-color: rgb(8, 238, 8);
 }
 
 #t-6 {
+  visibility: hidden;
+  border-right: 1px solid black;
   background-color: rgb(8, 238, 8);
 }
 
 #t-7 {
+  visibility: hidden;
+  border-right: 1px solid black;
   background-color: rgb(18, 195, 207);
 }
 #t-8 {
+  visibility: hidden;
+  border-right: 1px solid black;
   background-color: rgb(18, 195, 207);
 }
 
 #t-9 {
+  visibility: hidden;
+  border-right: 1px solid black;
   background-color: rgb(18, 195, 207);
 }
 
 #t-10 {
+  visibility: hidden;
+  border-right: 1px solid black;
   background-color: rgb(18, 195, 207);
 }
 #t-11 {
+  visibility: hidden;
+  border-right: 1px solid black;
   background-color: rgb(18, 195, 207);
 }
 
 #t-12 {
+  visibility: hidden;
+  border-right: 1px solid black;
   background-color: rgb(18, 195, 207);
 }
 
 #t-13 {
+  visibility: hidden;
+  border-right: 1px solid black;
   background-color: rgb(236, 15, 133);
+}
+
+#timer {
+  color: white;
+  border-left: 1px solid white;
 }
