@@ -1,0 +1,65 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+body {
+  background-color: rgb(85, 85, 85);
+}
+
+#main {
+  background-color: #333;
+  height: 100px;
+  display: grid;
+  grid-template-columns: repeat(13, 1fr);
+}
+
+#t-1 {
+  background-color: rgb(143, 33, 33);
+}
+
+#t-2 {
+  background-color: rgb(223, 231, 111);
+}
+
+#t-3 {
+  background-color: rgb(8, 238, 8);
+}
+
+#t-4 {
+  background-color: rgb(8, 238, 8);
+}
+
+#t-5 {
+  background-color: rgb(8, 238, 8);
+}
+
+#t-6 {
+  background-color: rgb(8, 238, 8);
+}
+
+#t-7 {
+  background-color: rgb(18, 195, 207);
+}
+#t-8 {
+  background-color: rgb(18, 195, 207);
+}
+
+#t-9 {
+  background-color: rgb(18, 195, 207);
+}
+
+#t-10 {
+  background-color: rgb(18, 195, 207);
+}
+#t-11 {
+  background-color: rgb(18, 195, 207);
+}
+
+#t-12 {
+  background-color: rgb(18, 195, 207);
+}
+
+#t-13 {
+  background-color: rgb(236, 15, 133);
+}
